@@ -1,5 +1,7 @@
-# 💫 About Me:
-Nothing much you can know about me but however i am Geethika from SRM <br>Currently learning about something which is out of matter<br>how ever this is a Fake accout so you can ignore from here
+<img src="header.jpg">
+
+# Hellllooo:
+1.Nothing much you can know about me but however I am **Geethika** from **SRM**.<br>2.Currently learning about something which is out of matter.<br>3.How ever this is a Fake accout so you can ignore from here
 
 
 # 💻 Tech Stack:
